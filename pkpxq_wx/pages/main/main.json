@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "home": "./home",
+    "myself": "./myself",
+    "uv-tabbar-item": "../../uni_modules/uv-tabbar/components/uv-tabbar-item/uv-tabbar-item",
+    "uv-tabbar": "../../uni_modules/uv-tabbar/components/uv-tabbar/uv-tabbar",
+    "uv-icon": "../../uni_modules/uv-icon/components/uv-icon/uv-icon",
+    "uv-grid-item": "../../uni_modules/uv-grid/components/uv-grid-item/uv-grid-item",
+    "uv-grid": "../../uni_modules/uv-grid/components/uv-grid/uv-grid",
+    "uv-popup": "../../uni_modules/uv-popup/components/uv-popup/uv-popup"
+  }
+}

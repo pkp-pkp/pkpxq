@@ -1,0 +1,4 @@
+.zero-markdown-view {
+  padding: 15rpx;
+  position: relative;
+}

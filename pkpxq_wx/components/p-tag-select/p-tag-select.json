@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tki-tree": "../tki-tree/tki-tree"
+  }
+}

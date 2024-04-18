@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "收藏的帖子",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "p-post-list": "../../components/p-post-list/p-post-list"
+  }
+}

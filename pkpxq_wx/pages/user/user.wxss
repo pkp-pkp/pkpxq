@@ -1,0 +1,121 @@
+
+page {
+	background-color: #f5f5f5;
+}
+
+.con-c.data-v-0f7520f0 {
+  padding: 30rpx;
+  position: relative;
+}
+.user-info.data-v-0f7520f0 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  height: 400rpx;
+}
+.user-info .user-c.data-v-0f7520f0 {
+  background-color: #ffffff;
+  border-radius: 30rpx;
+  padding: 20rpx;
+  position: absolute;
+  top: 65rpx;
+  left: 0;
+  right: 0;
+  box-shadow: 5rpx 10rpx 20rpx #e6e6e6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.user-info .user-c .username.data-v-0f7520f0 {
+  font-size: 40rpx;
+  font-weight: bold;
+  margin-top: 70rpx;
+}
+.user-info .user-c .num-box.data-v-0f7520f0 {
+  font-size: 24rpx;
+  margin: 20rpx 0;
+  text-align: center;
+}
+.user-info .user-c .num-box .txt.data-v-0f7520f0 {
+  color: #999;
+  margin-left: 5rpx;
+}
+.user-info .user-c .num-box text.data-v-0f7520f0 {
+  margin-right: 30rpx;
+}
+.user-info .user-c .desc.data-v-0f7520f0 {
+  font-size: 22rpx;
+  color: #999;
+}
+.user-info .user-c .btn-box.data-v-0f7520f0 {
+  display: flex;
+  margin-top: 20rpx;
+}
+.tab-box.data-v-0f7520f0 {
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+}
+.info-c.data-v-0f7520f0 {
+  display: flex;
+  flex-direction: column;
+}
+.info-c > text.data-v-0f7520f0 {
+  margin-bottom: 20rpx;
+  color: #999;
+}
+
+/* 标签 */
+.tag-box .tag.data-v-0f7520f0 {
+  padding: 10rpx 20rpx;
+  border-radius: 20rpx;
+  font-size: 24rpx;
+  display: inline-block;
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+  background-color: #ffebe5;
+}
+.tag-box .tag.data-v-0f7520f0:nth-child(2n) {
+  background-color: #ecf9f2;
+}
+.tag-box .tag.data-v-0f7520f0:nth-child(3n) {
+  background-color: #fff7e5;
+}
+.tag-box .tag.data-v-0f7520f0:nth-child(5n) {
+  background-color: #b3e0ff;
+}
+.follow-btn.data-v-0f7520f0 {
+  color: #fff;
+  background-color: deepskyblue;
+  font-size: 28rpx;
+  border-radius: 100rpx;
+  padding: 10rpx 30rpx;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+.follow-btn .text.data-v-0f7520f0 {
+  margin-left: 10rpx;
+}
+.avatar.data-v-0f7520f0 {
+  width: 130rpx;
+  height: 130rpx;
+  border-radius: 200rpx;
+  background-color: #999;
+  z-index: 999;
+}
+.f-wrap.data-v-0f7520f0 {
+  padding: 20rpx;
+  border-radius: 10rpx;
+  box-shadow: 5rpx 5rpx 20rpx #e6e6e6;
+  background-color: #ffffff;
+  margin-bottom: 20rpx;
+}
+.f-wrap > .title.data-v-0f7520f0 {
+  font-weight: bold;
+  margin-bottom: 20rpx;
+}
+.post.data-v-0f7520f0 {
+  border-radius: 10rpx;
+  overflow: hidden;
+}

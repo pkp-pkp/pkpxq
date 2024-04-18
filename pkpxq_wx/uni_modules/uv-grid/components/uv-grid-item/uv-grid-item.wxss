@@ -1,0 +1,33 @@
+.uv-border-right.data-v-0657340f {
+  border-right-width: 0.5px !important;
+  border-color: #dadbde !important;
+  border-right-style: solid;
+}
+.uv-border-bottom.data-v-0657340f {
+  border-bottom-width: 0.5px !important;
+  border-color: #dadbde !important;
+  border-bottom-style: solid;
+}
+view.data-v-0657340f, scroll-view.data-v-0657340f, swiper-item.data-v-0657340f {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-grid-item.data-v-0657340f {
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  float: left;
+  margin-top: 1rpx;
+}
+.uv-grid-item--hover-class.data-v-0657340f {
+  opacity: 0.5;
+}

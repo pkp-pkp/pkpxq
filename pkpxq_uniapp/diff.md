@@ -1,0 +1,1 @@
+`/pages/api_test/components/upload.vue` <uni-file-picker>组件

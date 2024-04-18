@@ -1,0 +1,1 @@
+<view class=""><button bindtap="{{a}}">显示分享</button></view>

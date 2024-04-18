@@ -1,0 +1,1 @@
+<uni-file-picker wx:if="{{c}}" class="r" bindselect="{{b}}" u-r="files" u-i="778b373c-0" bind:__l="__l" u-p="{{c}}"/><button bindtap="{{d}}">上传</button><view>上传成功：路径：{{e}}</view>

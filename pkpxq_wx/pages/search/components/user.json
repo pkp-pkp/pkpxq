@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "p-user-list": "../../../components/p-user-list/p-user-list"
+  }
+}

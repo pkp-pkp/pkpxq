@@ -1,0 +1,5 @@
+button {
+  display: inline-block;
+  width: 300rpx;
+  font-size: 26rpx;
+}

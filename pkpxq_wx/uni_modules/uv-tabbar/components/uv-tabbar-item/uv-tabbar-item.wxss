@@ -1,0 +1,31 @@
+view.data-v-f9097980, scroll-view.data-v-f9097980, swiper-item.data-v-f9097980 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-tabbar-item.data-v-f9097980 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+.uv-tabbar-item__icon.data-v-f9097980 {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 150rpx;
+  justify-content: center;
+}
+.uv-tabbar-item__text.data-v-f9097980 {
+  margin-top: 2px;
+  font-size: 12px;
+  color: #606266;
+}
+.data-v-f9097980:host {
+  flex: 1;
+}

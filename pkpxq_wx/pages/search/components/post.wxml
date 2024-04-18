@@ -1,0 +1,1 @@
+<view><p-post-list wx:if="{{a}}" u-i="2ad2a1a8-0" bind:__l="__l" u-p="{{a}}"></p-post-list></view>

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "p-post-list": "../../../components/p-post-list/p-post-list"
+  }
+}

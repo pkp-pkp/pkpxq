@@ -1,0 +1,64 @@
+.head.data-v-261669ce {
+  margin-bottom: 20rpx;
+  padding: 0 20px 20px;
+  background-color: #fff;
+}
+.head .userinfo.data-v-261669ce {
+  display: flex;
+  align-items: center;
+  padding: 20rpx;
+}
+.head .userinfo .arrow-right.data-v-261669ce {
+  margin-left: auto;
+}
+.grid-text.data-v-261669ce {
+  color: #999;
+  font-size: 12px;
+  margin-bottom: 20rpx;
+}
+.btn-login.data-v-261669ce {
+  padding-top: 40rpx;
+}
+.gn-icon.data-v-261669ce {
+  width: 60rpx;
+  height: 60rpx;
+  margin-bottom: 20rpx;
+}
+.block-wrap.data-v-261669ce {
+  background-color: #fff;
+  border-radius: 20rpx;
+  margin: 20rpx;
+  overflow: hidden;
+}
+.block-wrap .block-title.data-v-261669ce {
+  background-color: #fff;
+  padding: 20rpx;
+}
+.grid-wrap.data-v-261669ce {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.grid-wrap .grid-item.data-v-261669ce {
+  text-align: center;
+  position: relative;
+}
+.grid-wrap .grid-item .grid-text.data-v-261669ce {
+  color: #999;
+  font-size: 12px;
+  margin-bottom: 20rpx;
+}
+.grid-wrap .grid-item .message-num.data-v-261669ce {
+  position: absolute;
+  right: 20rpx;
+  top: 0;
+  padding: 5rpx;
+  width: 35rpx;
+  height: 35rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: red;
+  color: #fff;
+  font-size: 24rpx;
+}

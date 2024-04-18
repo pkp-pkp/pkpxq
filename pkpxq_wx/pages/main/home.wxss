@@ -1,0 +1,9 @@
+.nav-input.data-v-88ed50df {
+  box-sizing: border-box;
+  width: 500rpx;
+  line-height: 500rpx;
+  padding-right: 100rpx;
+}
+.swiper.data-v-88ed50df {
+  padding: 20rpx;
+}

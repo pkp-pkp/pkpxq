@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "login": "./components/login",
+    "upload": "./components/upload",
+    "controller": "./components/controller",
+    "post": "./components/post"
+  }
+}

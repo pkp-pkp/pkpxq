@@ -1,0 +1,23 @@
+view.data-v-400210fd, scroll-view.data-v-400210fd, swiper-item.data-v-400210fd {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-cell-group.data-v-400210fd {
+  flex: 1;
+}
+.uv-cell-group__title.data-v-400210fd {
+  padding: 16px 16px 8px;
+}
+.uv-cell-group__title__text.data-v-400210fd {
+  font-size: 15px;
+  line-height: 16px;
+  color: #303133;
+}
+.uv-cell-group__wrapper.data-v-400210fd {
+  position: relative;
+}

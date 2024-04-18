@@ -1,0 +1,44 @@
+.uv-popup.data-v-01a3ad6e {
+  position: fixed;
+  z-index: 99;
+}
+.uv-popup.top.data-v-01a3ad6e, .uv-popup.left.data-v-01a3ad6e, .uv-popup.right.data-v-01a3ad6e {
+  top: 0;
+}
+.uv-popup .uv-popup__content.data-v-01a3ad6e {
+  display: block;
+  overflow: hidden;
+  position: relative;
+}
+.uv-popup .uv-popup__content.left.data-v-01a3ad6e, .uv-popup .uv-popup__content.right.data-v-01a3ad6e {
+  padding-top: 0;
+  flex: 1;
+}
+.uv-popup .uv-popup__content__close.data-v-01a3ad6e {
+  position: absolute;
+}
+.uv-popup .uv-popup__content__close--hover.data-v-01a3ad6e {
+  opacity: 0.4;
+}
+.uv-popup .uv-popup__content__close--top-left.data-v-01a3ad6e {
+  top: 15px;
+  left: 15px;
+}
+.uv-popup .uv-popup__content__close--top-right.data-v-01a3ad6e {
+  top: 15px;
+  right: 15px;
+}
+.uv-popup .uv-popup__content__close--bottom-left.data-v-01a3ad6e {
+  bottom: 15px;
+  left: 15px;
+}
+.uv-popup .uv-popup__content__close--bottom-right.data-v-01a3ad6e {
+  right: 15px;
+  bottom: 15px;
+}
+.fixforpc-z-index.data-v-01a3ad6e {
+  z-index: 999;
+}
+.fixforpc-top.data-v-01a3ad6e {
+  top: 0;
+}

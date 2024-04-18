@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "发布",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uv-upload": "../../uni_modules/uv-upload/components/uv-upload/uv-upload",
+    "uv-line": "../../uni_modules/uv-line/components/uv-line/uv-line",
+    "uv-tags": "../../uni_modules/uv-tags/components/uv-tags/uv-tags",
+    "uv-button": "../../uni_modules/uv-button/components/uv-button/uv-button",
+    "p-tag-select": "../../components/p-tag-select/p-tag-select"
+  }
+}

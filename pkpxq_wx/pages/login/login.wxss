@@ -1,0 +1,10 @@
+.btn-input.data-v-e4e4508d {
+  text-align: right;
+}
+.btn-login.data-v-e4e4508d {
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  bottom: 60rpx;
+  padding: 0 20rpx;
+}

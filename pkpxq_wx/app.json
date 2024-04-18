@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/wx_api/wx_api",
+    "pages/api_test/api_test",
+    "pages/login/login",
+    "pages/post/detail",
+    "pages/user/user",
+    "pages/user/post_favour",
+    "pages/post/add",
+    "pages/user/fans",
+    "pages/user/follow",
+    "pages/user/edit",
+    "pages/search/search",
+    "pages/post/tag",
+    "pages/error/error"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

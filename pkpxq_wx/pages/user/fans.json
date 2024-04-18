@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "粉丝",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "p-user-list": "../../components/p-user-list/p-user-list"
+  }
+}

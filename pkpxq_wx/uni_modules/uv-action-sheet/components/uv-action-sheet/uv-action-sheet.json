@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-icon": "../../../uv-icon/components/uv-icon/uv-icon",
+    "uv-line": "../../../uv-line/components/uv-line/uv-line",
+    "uv-loading-icon": "../../../uv-loading-icon/components/uv-loading-icon/uv-loading-icon",
+    "uv-gap": "../../../uv-gap/components/uv-gap/uv-gap",
+    "uv-popup": "../../../uv-popup/components/uv-popup/uv-popup"
+  }
+}

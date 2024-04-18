@@ -1,0 +1,10 @@
+.img.data-v-ede0008c {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.img-item.data-v-ede0008c {
+  width: 100rpx;
+  height: 100rpx;
+}

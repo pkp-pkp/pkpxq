@@ -1,0 +1,187 @@
+.usercard.data-v-b14daf57 {
+  position: relative;
+  background-color: #f5f5f5;
+  display: flex;
+  margin: 20rpx 0;
+  padding: 20rpx;
+  border-radius: 10rpx;
+}
+.usercard-box.data-v-b14daf57 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 400rpx;
+  overflow: hidden;
+  margin-left: 10rpx;
+}
+.usercard-box .brief.data-v-b14daf57 {
+  color: #a2a2a2;
+  font-size: 24rpx;
+}
+.usercard .btn-gz.data-v-b14daf57 {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 20rpx;
+}
+.p-title.data-v-b14daf57 {
+  margin: 30rpx 0;
+  font-weight: bolder;
+  font-size: 42rpx;
+}
+.p-footer.data-v-b14daf57 {
+  display: flex;
+  justify-content: space-between;
+  margin: 40rpx 0 10rpx;
+  padding: 0 20rpx;
+}
+.p-footer .p-item.data-v-b14daf57 {
+  display: flex;
+}
+.p-footer .p-item .count.data-v-b14daf57 {
+  font-size: 28rpx;
+}
+.p-footer-view.data-v-b14daf57 {
+  font-size: 22rpx;
+  color: #bfbfbf;
+  margin-top: 16rpx;
+  text-align: right;
+}
+.indicator.data-v-b14daf57 {
+  display: flex;
+  justify-content: center;
+}
+.indicator__dot.data-v-b14daf57 {
+  height: 6px;
+  width: 6px;
+  border-radius: 100px;
+  background-color: rgba(255, 255, 255, 0.35);
+  margin: 0 5px;
+  transition: background-color 0.3s;
+}
+.indicator__dot--active.data-v-b14daf57 {
+  background-color: #ffffff;
+}
+.indicator-num.data-v-b14daf57 {
+  padding: 2px 0;
+  background-color: rgba(0, 0, 0, 0.35);
+  border-radius: 100px;
+  width: 35px;
+  display: flex;
+  justify-content: center;
+}
+.indicator-num__text.data-v-b14daf57 {
+  color: #ffffff;
+  font-size: 12px;
+}
+
+/*评论列表*/
+.comment-box.data-v-b14daf57 {
+  background-color: #ffffff;
+  margin-top: 60rpx;
+}
+.comment-box > .title.data-v-b14daf57 {
+  margin-bottom: 20rpx;
+}
+.comment-item.data-v-b14daf57 {
+  display: flex;
+}
+.comment-item.data-v-b14daf57:active {
+  background-color: #f5f5f5;
+}
+.comment-item .c-content.data-v-b14daf57 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-left: 14rpx;
+}
+.comment-item .c-content .userinfo.data-v-b14daf57 {
+  display: flex;
+  flex-direction: column;
+  font-size: 28rpx;
+}
+.comment-item .c-content .userinfo .time.data-v-b14daf57 {
+  color: #999;
+  font-size: 22rpx;
+}
+.comment-item .c-content .c-txt.data-v-b14daf57 {
+  margin-top: 16rpx;
+  font-size: 32rpx;
+}
+.comment-item .c-content .user.data-v-b14daf57 {
+  display: flex;
+}
+.comment-item .c-content .user .thumbs.data-v-b14daf57 {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  color: #bfbfbf;
+}
+.comment-item .c-content .user .thumbs .num.data-v-b14daf57 {
+  margin-right: 10rpx;
+}
+.sub-comment-item.data-v-b14daf57 {
+  margin-left: 90rpx;
+  padding: 20rpx;
+  border-radius: 10rpx;
+  background-color: #f5f5f5;
+}
+.sub-comment-item.data-v-b14daf57:active {
+  background-color: #f5f5f5;
+}
+.sub-comment-item .user.data-v-b14daf57 {
+  display: flex;
+  align-items: center;
+}
+.sub-comment-item .user .name.data-v-b14daf57 {
+  color: #616161;
+}
+.sub-comment-item .user .uv-head.data-v-b14daf57 {
+  flex: 1;
+  display: flex;
+}
+.sub-comment-item .user .uv-head .thumbs.data-v-b14daf57 {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  color: #bfbfbf;
+}
+.sub-comment-item .user .uv-head .thumbs .num.data-v-b14daf57 {
+  margin-right: 10rpx;
+}
+.sub-comment-item .user .uv-head .nickname.data-v-b14daf57 {
+  font-size: 26rpx;
+}
+.sub-comment-item .reply.data-v-b14daf57 {
+  font-size: 26rpx;
+}
+.sub-comment-item .reply .time.data-v-b14daf57 {
+  margin-left: auto;
+  font-size: 20rpx;
+  color: #999;
+}
+.sub-comment-item .reply-at.data-v-b14daf57 {
+  color: #2b85e4;
+  font-weight: 600;
+}
+
+/* 评论tool */
+.comment-tool.data-v-b14daf57 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20rpx;
+  background-color: #fff;
+  display: flex;
+  z-index: 999;
+}
+.comment-tool textarea.data-v-b14daf57 {
+  background-color: #f5f5f5;
+  padding: 20rpx;
+  border-radius: 10rpx;
+  min-height: 40rpx;
+}
+.comment-tool .u-btn.data-v-b14daf57 {
+  margin-left: 10rpx;
+}

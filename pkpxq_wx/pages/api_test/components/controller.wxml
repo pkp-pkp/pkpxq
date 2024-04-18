@@ -1,0 +1,1 @@
+<button class="data-v-ede0008c" bindtap="{{a}}">获取头像文件</button><view class="img data-v-ede0008c"><view wx:for="{{b}}" wx:for-item="item" wx:key="c" class="data-v-ede0008c"><image class="img-item data-v-ede0008c" src="{{item.a}}" alt=""></image><text class="data-v-ede0008c" bindtap="{{item.b}}">删除</text></view></view>

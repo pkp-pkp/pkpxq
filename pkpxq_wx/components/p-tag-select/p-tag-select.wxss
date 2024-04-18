@@ -1,0 +1,8 @@
+.tag.data-v-a1ae5ed3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tag .tag-item.data-v-a1ae5ed3 {
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+}

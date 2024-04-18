@@ -1,0 +1,1 @@
+<input type="text" placeholder="请输入帖子id" value="{{a}}" bindinput="{{b}}"/><button bindtap="{{c}}">获取帖子</button><button bindtap="{{d}}">获取评论</button>

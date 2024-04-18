@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uv-avatar": "../../uni_modules/uv-avatar/components/uv-avatar/uv-avatar",
+    "uv-button": "../../uni_modules/uv-button/components/uv-button/uv-button",
+    "uv-swiper": "../../uni_modules/uv-swiper/components/uv-swiper/uv-swiper",
+    "uv-divider": "../../uni_modules/uv-divider/components/uv-divider/uv-divider",
+    "zero-markdown-view": "../../components/zero-markdown-view/zero-markdown-view",
+    "uv-icon": "../../uni_modules/uv-icon/components/uv-icon/uv-icon",
+    "uv-load-more": "../../uni_modules/uv-load-more/components/uv-load-more/uv-load-more",
+    "uv-empty": "../../uni_modules/uv-empty/components/uv-empty/uv-empty",
+    "uv-action-sheet": "../../uni_modules/uv-action-sheet/components/uv-action-sheet/uv-action-sheet"
+  }
+}

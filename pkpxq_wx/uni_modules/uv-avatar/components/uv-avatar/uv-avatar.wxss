@@ -1,0 +1,27 @@
+view.data-v-fa9b0ca7, scroll-view.data-v-fa9b0ca7, swiper-item.data-v-fa9b0ca7 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-avatar.data-v-fa9b0ca7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.uv-avatar--circle.data-v-fa9b0ca7 {
+  border-radius: 100px;
+}
+.uv-avatar--square.data-v-fa9b0ca7 {
+  border-radius: 4px;
+}
+.uv-avatar__image--circle.data-v-fa9b0ca7 {
+  border-radius: 100px;
+}
+.uv-avatar__image--square.data-v-fa9b0ca7 {
+  border-radius: 4px;
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-status-bar": "../../../uv-status-bar/components/uv-status-bar/uv-status-bar",
+    "uv-icon": "../../../uv-icon/components/uv-icon/uv-icon"
+  }
+}

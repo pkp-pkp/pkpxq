@@ -1,0 +1,1 @@
+<view class="uv-grid data-v-fb64a415" ref="uv-grid" style="{{a}}"><slot/></view>

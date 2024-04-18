@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uv-image": "../../uni_modules/uv-image/components/uv-image/uv-image",
+    "uv-icon": "../../uni_modules/uv-icon/components/uv-icon/uv-icon",
+    "uv-input": "../../uni_modules/uv-input/components/uv-input/uv-input",
+    "uv-modal": "../../uni_modules/uv-modal/components/uv-modal/uv-modal",
+    "uv-action-sheet": "../../uni_modules/uv-action-sheet/components/uv-action-sheet/uv-action-sheet"
+  }
+}

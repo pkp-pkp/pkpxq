@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "登录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uv-image": "../../uni_modules/uv-image/components/uv-image/uv-image",
+    "uv-cell": "../../uni_modules/uv-cell/components/uv-cell/uv-cell",
+    "uv-cell-group": "../../uni_modules/uv-cell/components/uv-cell-group/uv-cell-group",
+    "uv-button": "../../uni_modules/uv-button/components/uv-button/uv-button"
+  }
+}

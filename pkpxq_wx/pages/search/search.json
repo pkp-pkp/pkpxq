@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "post": "./components/post",
+    "user": "./components/user",
+    "uv-search": "../../uni_modules/uv-search/components/uv-search/uv-search",
+    "uv-sticky": "../../uni_modules/uv-sticky/components/uv-sticky/uv-sticky",
+    "uv-icon": "../../uni_modules/uv-icon/components/uv-icon/uv-icon",
+    "uv-tabs": "../../uni_modules/uv-tabs/components/uv-tabs/uv-tabs"
+  }
+}

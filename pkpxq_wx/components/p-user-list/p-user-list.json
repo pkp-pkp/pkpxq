@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-avatar": "../../uni_modules/uv-avatar/components/uv-avatar/uv-avatar",
+    "uv-icon": "../../uni_modules/uv-icon/components/uv-icon/uv-icon",
+    "uv-empty": "../../uni_modules/uv-empty/components/uv-empty/uv-empty",
+    "uv-load-more": "../../uni_modules/uv-load-more/components/uv-load-more/uv-load-more"
+  }
+}

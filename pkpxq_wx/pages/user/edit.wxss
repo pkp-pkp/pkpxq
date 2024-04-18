@@ -1,0 +1,20 @@
+.userinfo.data-v-590d0314 {
+  padding: 0 10rpx;
+}
+.field.data-v-590d0314 {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20rpx;
+  border-bottom: 1px solid #f5f5f5;
+  background-color: #ffffff;
+}
+.field-b.data-v-590d0314 {
+  display: flex;
+}
+.field-b .input.data-v-590d0314 {
+  text-align: right;
+  color: #afafaf;
+  margin-right: 10rpx;
+}

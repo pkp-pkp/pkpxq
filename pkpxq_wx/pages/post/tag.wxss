@@ -1,0 +1,8 @@
+.tag.data-v-f2b18efe {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tag .tag-item.data-v-f2b18efe {
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+}

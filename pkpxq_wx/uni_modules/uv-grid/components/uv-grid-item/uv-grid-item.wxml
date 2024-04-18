@@ -1,0 +1,1 @@
+<view hover-class="uv-grid-item--hover-class" hover-stay-time="{{200}}" bindtap="{{a}}" class="{{['uv-grid-item', 'data-v-0657340f', b]}}" style="{{c}}"><slot/></view>

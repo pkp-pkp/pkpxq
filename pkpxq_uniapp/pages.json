@@ -1,0 +1,133 @@
+{
+	"pages": [{
+			"path" : "pages/main/main",
+			"style" : 
+			{
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/wx_api/wx_api",
+			"style": {
+				"navigationBarTitleText": "微信api测试",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/api_test/api_test",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/post/detail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom", // 隐藏系统导航栏
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/user/post_favour",
+			"style": {
+				"navigationBarTitleText": "收藏的帖子",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path" : "pages/post/add",
+			"style" : 
+			{
+				"navigationBarTitleText" : "发布",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user/fans",
+			"style" : 
+			{
+				"navigationBarTitleText" : "粉丝",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user/follow",
+			"style" : 
+			{
+				"navigationBarTitleText" : "关注",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user/edit",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/search/search",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/post/tag",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/error/error",
+			"style" : 
+			{
+				"navigationBarTitleText" : "拒绝访问",
+				"enablePullDownRefresh" : false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBarerr": {
+		"selectedColor": "#EA5149",
+		"custom":true,
+		"list": [{
+				"text": "首页",
+				"pagePath": "pages/index/index",
+				"iconPath": "/static/binggan.png",
+				"selectedIconPath": "/static/binggan-active.png"
+			},
+			{
+				"text": "我的",
+				"pagePath": "pages/myself/myself",
+				"iconPath": "/static/tangguo.png",
+				"selectedIconPath": "/static/tangguo-active.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,181 @@
+view.data-v-b10c8d02, scroll-view.data-v-b10c8d02, swiper-item.data-v-b10c8d02 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-tags-wrapper.data-v-b10c8d02 {
+  position: relative;
+}
+.uv-tags.data-v-b10c8d02 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-style: solid;
+}
+.uv-tags--circle.data-v-b10c8d02 {
+  border-radius: 100px;
+}
+.uv-tags--square.data-v-b10c8d02 {
+  border-radius: 3px;
+}
+.uv-tags__icon.data-v-b10c8d02 {
+  margin-right: 4px;
+}
+.uv-tags__text--mini.data-v-b10c8d02 {
+  font-size: 12px;
+  line-height: 12px;
+}
+.uv-tags__text--medium.data-v-b10c8d02 {
+  font-size: 13px;
+  line-height: 13px;
+}
+.uv-tags__text--large.data-v-b10c8d02 {
+  font-size: 15px;
+  line-height: 15px;
+}
+.uv-tags--mini.data-v-b10c8d02 {
+  height: 22px;
+  line-height: 22px;
+  padding: 0 5px;
+}
+.uv-tags--mini--right.data-v-b10c8d02 {
+  padding-right: 2px;
+}
+.uv-tags--medium.data-v-b10c8d02 {
+  height: 26px;
+  line-height: 22px;
+  padding: 0 10px;
+}
+.uv-tags--medium--right.data-v-b10c8d02 {
+  padding: 0 4px 0 8px;
+}
+.uv-tags--large.data-v-b10c8d02 {
+  height: 32px;
+  line-height: 32px;
+  padding: 0 15px;
+}
+.uv-tags--large--right.data-v-b10c8d02 {
+  padding: 0 4px 0 8px;
+}
+.uv-tags--primary.data-v-b10c8d02 {
+  background-color: #ea5149;
+  border-width: 1px;
+  border-color: #ea5149;
+}
+.uv-tags--primary--plain.data-v-b10c8d02 {
+  border-width: 1px;
+  border-color: #ea5149;
+}
+.uv-tags--primary--plain--fill.data-v-b10c8d02 {
+  background-color: #ecf5ff;
+}
+.uv-tags__text--primary.data-v-b10c8d02 {
+  color: #FFFFFF;
+}
+.uv-tags__text--primary--plain.data-v-b10c8d02 {
+  color: #ea5149;
+}
+.uv-tags--error.data-v-b10c8d02 {
+  background-color: #f56c6c;
+  border-width: 1px;
+  border-color: #f56c6c;
+}
+.uv-tags--error--plain.data-v-b10c8d02 {
+  border-width: 1px;
+  border-color: #f56c6c;
+}
+.uv-tags--error--plain--fill.data-v-b10c8d02 {
+  background-color: #fef0f0;
+}
+.uv-tags__text--error.data-v-b10c8d02 {
+  color: #FFFFFF;
+}
+.uv-tags__text--error--plain.data-v-b10c8d02 {
+  color: #f56c6c;
+}
+.uv-tags--warning.data-v-b10c8d02 {
+  background-color: #f9ae3d;
+  border-width: 1px;
+  border-color: #f9ae3d;
+}
+.uv-tags--warning--plain.data-v-b10c8d02 {
+  border-width: 1px;
+  border-color: #f9ae3d;
+}
+.uv-tags--warning--plain--fill.data-v-b10c8d02 {
+  background-color: #fdf6ec;
+}
+.uv-tags__text--warning.data-v-b10c8d02 {
+  color: #FFFFFF;
+}
+.uv-tags__text--warning--plain.data-v-b10c8d02 {
+  color: #f9ae3d;
+}
+.uv-tags--success.data-v-b10c8d02 {
+  background-color: #5ac725;
+  border-width: 1px;
+  border-color: #5ac725;
+}
+.uv-tags--success--plain.data-v-b10c8d02 {
+  border-width: 1px;
+  border-color: #5ac725;
+}
+.uv-tags--success--plain--fill.data-v-b10c8d02 {
+  background-color: #f5fff0;
+}
+.uv-tags__text--success.data-v-b10c8d02 {
+  color: #FFFFFF;
+}
+.uv-tags__text--success--plain.data-v-b10c8d02 {
+  color: #5ac725;
+}
+.uv-tags--info.data-v-b10c8d02 {
+  background-color: #909399;
+  border-width: 1px;
+  border-color: #909399;
+}
+.uv-tags--info--plain.data-v-b10c8d02 {
+  border-width: 1px;
+  border-color: #909399;
+}
+.uv-tags--info--plain--fill.data-v-b10c8d02 {
+  background-color: #f4f4f5;
+}
+.uv-tags__text--info.data-v-b10c8d02 {
+  color: #FFFFFF;
+}
+.uv-tags__text--info--plain.data-v-b10c8d02 {
+  color: #909399;
+}
+.uv-tags__close.data-v-b10c8d02 {
+  border-radius: 100px;
+  background-color: #C6C7CB;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  transform: scale(0.6);
+}
+.uv-tags__close--right-top.data-v-b10c8d02 {
+  position: absolute;
+  z-index: 999;
+  top: 10px;
+  right: 10px;
+  transform: scale(0.6) translate(80%, -80%);
+}
+.uv-tags__close--mini.data-v-b10c8d02 {
+  width: 18px;
+  height: 18px;
+}
+.uv-tags__close--medium.data-v-b10c8d02 {
+  width: 22px;
+  height: 22px;
+}
+.uv-tags__close--large.data-v-b10c8d02 {
+  width: 25px;
+  height: 25px;
+}
