@@ -43,3 +43,6 @@ pkpxq_wx：uniapp编译后的wx目录，直接导入微信小程序，必要时�
 懒得搞了，直接将自己答辨用的视频放上去了
 
 演示.mp4
+
+### 最后附上接口文档
+[接口文档](https://apifox.com/apidoc/shared-5360ccd6-cc9e-4e3b-abb6-09c3b24ae1dd)
