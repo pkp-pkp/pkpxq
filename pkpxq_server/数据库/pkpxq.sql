@@ -550,11 +550,11 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `openid`, `username`, `password`, `mobile`, `sex`, `age`, `nickname`, `avatar`, `brief`, `terminal`, `createTime`, `updateTime`, `status`, `isDelete`) VALUES
-(10000, '', 'pkpbp1', 'pkpbp1', '18259560131', '0', NULL, '管理员', '/uploads/avatar/1703236293299-5tbIFqTtA5EH502ab4f260ee3d430470eae2a230819b.jpeg', NULL, '1', '2023-12-22 17:11:10', '2023-12-23 18:08:29', '0', '0'),
-(10001, 'o0vPy4mUkU6jofzHN5nx3fN0Wd0g', 'pkpbp2', 'pkpbp', '18259560131', '1', 18, '熙', '/uploads/avatar/1703263637748-LC8cGY5dRhelbc5472aa5f4cde4aae53d51df5b5bdc6.jpg', '我爱吃卤肉饭', '3', '2023-12-22 17:57:22', '2023-12-23 19:28:21', '0', '0'),
-(10002, '', 'pkpbp3', 'pkpbp3', '18259560131', '0', NULL, '趣跑乐', '/uploads/avatar/1703266743121-kKLm6tAccwHw3d6de213bfd5fd1f1ec876cdd3b9d1b1.jpg', NULL, '3', '2023-12-23 01:31:35', '2023-12-23 18:08:55', '0', '0'),
-(10003, '', 'pkpbp4', 'pkpbp4', '18259560131', '0', NULL, '星球崛起', '/uploads/avatar/1703266920925-OeustK9vJ33B01d4c293356cc13c580cacea421e245e.jpg', NULL, '1', '2023-12-23 01:41:00', '2023-12-23 18:09:00', '0', '0'),
-(10004, '', NULL, NULL, '18259560131', '0', NULL, '小熊', '/uploads/avatar/1703330002446-ZDvSAorjFP2G2b98d62a5e22f02056e9f09731f66b1c.jpeg', NULL, '1', '2023-12-23 18:09:11', '2023-12-23 19:28:16', '0', '0');
+(10000, '', 'pkpbp1', 'pkpbp1', '18259560000', '0', NULL, '管理员', '/uploads/avatar/1703236293299-5tbIFqTtA5EH502ab4f260ee3d430470eae2a230819b.jpeg', NULL, '1', '2023-12-22 17:11:10', '2023-12-23 18:08:29', '0', '0'),
+(10001, 'xxx', 'pkpbp2', 'pkpbp', '18259560000', '1', 18, '熙', '/uploads/avatar/1703263637748-LC8cGY5dRhelbc5472aa5f4cde4aae53d51df5b5bdc6.jpg', '我爱吃卤肉饭', '3', '2023-12-22 17:57:22', '2023-12-23 19:28:21', '0', '0'),
+(10002, '', 'pkpbp3', 'pkpbp3', '18259560000', '0', NULL, '趣跑乐', '/uploads/avatar/1703266743121-kKLm6tAccwHw3d6de213bfd5fd1f1ec876cdd3b9d1b1.jpg', NULL, '3', '2023-12-23 01:31:35', '2023-12-23 18:08:55', '0', '0'),
+(10003, '', 'pkpbp4', 'pkpbp4', '18259560000', '0', NULL, '星球崛起', '/uploads/avatar/1703266920925-OeustK9vJ33B01d4c293356cc13c580cacea421e245e.jpg', NULL, '1', '2023-12-23 01:41:00', '2023-12-23 18:09:00', '0', '0'),
+(10004, '', NULL, NULL, '18259560000', '0', NULL, '小熊', '/uploads/avatar/1703330002446-ZDvSAorjFP2G2b98d62a5e22f02056e9f09731f66b1c.jpeg', NULL, '1', '2023-12-23 18:09:11', '2023-12-23 19:28:16', '0', '0');
 
 --
 -- 转储表的索引
