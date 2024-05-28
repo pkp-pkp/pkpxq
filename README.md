@@ -34,7 +34,7 @@ pkpxq_server：nodejs后端
 
 ​		2. npm install
 
-                3. node app.js
+​		2. npm run dev
 
 pkpxq_uniapp：uniapp工程，导入直接编译即可，仅支持微信小程序
 
