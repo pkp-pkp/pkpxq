@@ -1,15 +1,15 @@
 const config = {
     database : {
         host : "127.0.0.1",
-        user : "root",
-        password : "abc123",
-        database : "pkpxq"
+        user : "输入你的数据库用户名",
+        password : "输入你的数据库密码",
+        database : "输入你的数据库名"
     },
     secretKey : "A.A",
     tokenExpiredTime : 60 * 60 * 24,
     wxApp : {
-        appid: 'wx135fdb26ac718d64',
-        secret:'d4b61b8f67bd3e3dec530fdb5054d239'
+        appid: '小程序appid',
+        secret:'小程序密钥'
     }
 }
 
